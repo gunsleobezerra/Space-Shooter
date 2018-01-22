@@ -17,7 +17,7 @@ A unity Tutorial :rocket:
 
 [Contact Destroy](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/DestroyContact.cs)
 
-[Game controler](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/GameController.cs)
+[Game controller](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/GameController.cs)
 
 
 --------------------------------
