@@ -1,13 +1,18 @@
 # Space-Shooter
 A unity Tutorial :rocket:
 
-**Tutorial 20%**
+**Tutorial 40%**
 
 ![Images](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Images_git/Front_.jpg)
 
 **Scripts**
 
 [Player Controller](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/PlayerController.cs)
+
+[Bullet Life  (Speed / Direction)](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/BulletLife.cs)
+
+[Limit World (Boundery)](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/LimitWorld.cs)
+
 
 --------------------------------
 

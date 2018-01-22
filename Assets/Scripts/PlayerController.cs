@@ -15,6 +15,26 @@ public class PlayerController : MonoBehaviour {
 	public float Speed;
 	public Limitbody Limit;
 	public float Tilt;
+	public GameObject Bullets;
+	public Transform Spawnshot;
+	public float Shot_Delay;
+	float times;
+
+
+	void Update(){
+
+
+
+		if (Input.GetButton ("Fire3") && times>=Shot_Delay) {
+			Instantiate (Bullets, Spawnshot.position, Spawnshot.rotation);
+			times = 0;
+		}
+		times += Time.deltaTime;
+	}
+
+
+
+
 
 	void FixedUpdate(){
 
@@ -35,6 +55,8 @@ public class PlayerController : MonoBehaviour {
 		);
 
 		Player.rotation = Quaternion.Euler (0.0f, 0.0f, Player.velocity.x * -Tilt);
+
+
 
 	}
 }
