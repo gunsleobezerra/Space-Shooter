@@ -1,7 +1,7 @@
 # Space-Shooter
 A unity Tutorial :rocket:
 
-**Tutorial 40%**
+**Tutorial 50%**
 
 ![Images](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Images_git/Front_.jpg)
 
@@ -12,6 +12,12 @@ A unity Tutorial :rocket:
 [Bullet Life  (Speed / Direction)](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/BulletLife.cs)
 
 [Limit World (Boundery)](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/LimitWorld.cs)
+
+[Randon Rotation](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/RandomRotate.cs)
+
+[Contact Destroy](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/DestroyContact.cs)
+
+[Game controler](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Assets/Scripts/GameController.cs)
 
 
 --------------------------------
