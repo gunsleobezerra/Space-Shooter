@@ -26,7 +26,7 @@ public class GameController : MonoBehaviour {
 				i++;
 			} else {
 				time += Time.deltaTime;
-				Debug.Log (i);
+
 			}
 
 			if (i == (Hazardscount / 2) && time==0)

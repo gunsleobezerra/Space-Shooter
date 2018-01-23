@@ -10,7 +10,7 @@ public class UpgradePlayer : MonoBehaviour {
 	Rigidbody body;
 	void Start () {
 
-		Player = GameObject.FindGameObjectWithTag ("Player");
+		Player = GameObject.FindGameObjectWithTag("Player");
 
 		playerC = Player.GetComponent<PlayerController> ();
 		body = this.gameObject.GetComponent<Rigidbody> ();

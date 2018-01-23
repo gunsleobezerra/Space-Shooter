@@ -1,7 +1,7 @@
 # Space-Shooter
 A unity Tutorial :rocket:
 
-**Tutorial 50%**
+**Tutorial 80%**
 
 ![Images](https://github.com/gunsleobezerra/Space-Shooter/blob/master/Images_git/Front_.jpg)
 
